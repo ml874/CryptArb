@@ -1,1 +1,3 @@
 # CryptArb
+
+Cryptocurrency arbitrage.
